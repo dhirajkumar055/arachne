@@ -89,3 +89,8 @@ Released under the [MIT License](LICENSE.md).
 [capabilities]: http://linux.die.net/man/7/capabilities
 [gorep-img]: https://goreportcard.com/badge/github.com/uber/arachne
 [gorep]: https://goreportcard.com/report/github.com/uber/arachne
+
+Pre-requisite
+Download go version 1.13
+
+
